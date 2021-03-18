@@ -1,6 +1,6 @@
 ---
 title: Janina
-image: ''
+image: "/images/originalgrosse-stich-stich-slip.png"
 email: email2@example.org
 social:
 - icon: ''
