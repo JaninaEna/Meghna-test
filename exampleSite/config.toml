@@ -1,5 +1,5 @@
 baseURL = "janina-meghna.netlify.app"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -104,7 +104,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "/images/originalgrosse-stich-stich-slip.png"
 post_share = true
 [params.cookies]
 enable = false
@@ -143,7 +143,7 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
+icon = "ti-instagram"
 link = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
